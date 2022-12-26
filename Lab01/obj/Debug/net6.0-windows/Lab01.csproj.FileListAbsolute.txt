@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.exe
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.deps.json
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.dll
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.pdb
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.Form1.resources
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.dll
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\refint\Lab01.dll
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.pdb
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C# Lab\Lab_01\Lab01\Lab01\obj\Debug\net6.0-windows\ref\Lab01.dll
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.exe
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.deps.json
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.runtimeconfig.json
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.dll
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\bin\Debug\net6.0-windows\Lab01.pdb
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.csproj.AssemblyReference.cache
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.Form1.resources
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.csproj.GenerateResource.cache
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.AssemblyInfoInputs.cache
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.AssemblyInfo.cs
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.dll
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\refint\Lab01.dll
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.pdb
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\Lab01.genruntimeconfig.cache
+C:\Users\xtramo\Downloads\Lab01-20221220T050130Z-001\Lab01\Lab01\obj\Debug\net6.0-windows\ref\Lab01.dll
